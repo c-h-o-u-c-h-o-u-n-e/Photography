@@ -1,0 +1,4681 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-08 15:55+0700\n"
+"PO-Revision-Date: 2016-06-18 14:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:41
+msgid "Error Not Found!"
+msgstr ""
+
+#: ../404.php:44
+msgid ""
+"We're sorry, the page you have looked for does not exist in our content!"
+msgstr ""
+
+#: ../404.php:45
+msgid "Perhaps you would like to go to our homepage or try searching below."
+msgstr ""
+
+#: ../404.php:60 ../search.php:31
+msgid "Type to search and hit enter..."
+msgstr ""
+
+#: ../404.php:66
+msgid "Or try to browse our latest posts instead?"
+msgstr ""
+
+#: ../404.php:168 ../blog_g.php:201 ../blog_gls.php:212 ../blog_gs.php:212
+#: ../blog_m.php:201 ../blog_mls.php:212 ../blog_ms.php:212 ../search.php:121
+#: ../single-post-f.php:125 ../single-post-f.php:161 ../single-post-l.php:125
+#: ../single-post-l.php:161 ../single-post-r.php:126 ../single-post-r.php:162
+#: ../single-post-split.php:138 ../single-post-split.php:174
+#: ../single-post-split.php:209
+msgid "In"
+msgstr ""
+
+#: ../blog_f.php:155 ../blog_l.php:188 ../blog_r.php:161 ../blog_split.php:162
+#: ../index.php:80
+msgid "No Comment"
+msgstr ""
+
+#: ../blog_f.php:155 ../blog_l.php:188 ../blog_r.php:161 ../blog_split.php:162
+#: ../index.php:80
+msgid "1 Comment"
+msgstr ""
+
+#: ../blog_f.php:155 ../blog_l.php:188 ../blog_r.php:161 ../blog_split.php:162
+#: ../comments.php:9 ../index.php:80
+msgid "% Comments"
+msgstr ""
+
+#: ../blog_f.php:271 ../blog_l.php:304 ../blog_r.php:277 ../blog_split.php:277
+#: ../index.php:195
+msgid "Continue Reading"
+msgstr ""
+
+#: ../blog_f.php:305 ../blog_g.php:299 ../blog_gls.php:335 ../blog_gs.php:334
+#: ../blog_l.php:338 ../blog_m.php:299 ../blog_mls.php:335 ../blog_ms.php:335
+#: ../blog_r.php:308 ../blog_split.php:308 ../event_f.php:277
+#: ../event_l.php:299 ../event_r.php:273 ../functions.php:2674 ../index.php:226
+#: ../portfolio-2-contained-classic.php:303 ../portfolio-2-contained.php:316
+#: ../portfolio-2-wide-classic.php:306 ../portfolio-2-wide.php:319
+#: ../portfolio-3-contained.php:316 ../portfolio-3-containen-classic.php:303
+#: ../portfolio-3-wide-classic.php:306 ../portfolio-3-wide-masonry.php:319
+#: ../portfolio-3-wide.php:319 ../portfolio-4-contained-classic.php:303
+#: ../portfolio-4-contained.php:316 ../portfolio-4-wide-classic.php:306
+#: ../portfolio-4-wide.php:319 ../portfolio-5-wide.php:320
+#: ../portfolio-mixed-contained.php:351
+#: ../portfolio-mixed-grid-contained.php:353
+#: ../portfolio-mixed-grid-wide.php:356 ../portfolio-mixed-wide.php:354
+#: ../portfolio-split-scree-wide.php:345
+#: ../portfolio-split-screen-masonry.php:330 ../portfolio-split-screen.php:345
+#: ../search.php:62 ../search.php:170
+msgid "Page"
+msgstr ""
+
+#: ../blog_f.php:305 ../blog_g.php:299 ../blog_gls.php:335 ../blog_gs.php:334
+#: ../blog_l.php:338 ../blog_m.php:299 ../blog_mls.php:335 ../blog_ms.php:335
+#: ../blog_r.php:308 ../blog_split.php:308 ../event_f.php:277
+#: ../event_l.php:299 ../event_r.php:273 ../index.php:226
+#: ../portfolio-2-contained-classic.php:303 ../portfolio-2-contained.php:316
+#: ../portfolio-2-wide-classic.php:306 ../portfolio-2-wide.php:319
+#: ../portfolio-3-contained.php:316 ../portfolio-3-containen-classic.php:303
+#: ../portfolio-3-wide-classic.php:306 ../portfolio-3-wide-masonry.php:319
+#: ../portfolio-3-wide.php:319 ../portfolio-4-contained-classic.php:303
+#: ../portfolio-4-contained.php:316 ../portfolio-4-wide-classic.php:306
+#: ../portfolio-4-wide.php:319 ../portfolio-5-wide.php:320
+#: ../portfolio-mixed-contained.php:351
+#: ../portfolio-mixed-grid-contained.php:353
+#: ../portfolio-mixed-grid-wide.php:356 ../portfolio-mixed-wide.php:354
+#: ../portfolio-split-scree-wide.php:345
+#: ../portfolio-split-screen-masonry.php:330 ../portfolio-split-screen.php:345
+#: ../search.php:170
+msgid "of"
+msgstr ""
+
+#: ../client-5-contained.php:127 ../functions.php:2668
+#: ../lib/customizer.lib.php:145 ../search.php:56
+msgid "Gallery"
+msgstr ""
+
+#: ../client-5-contained.php:131
+msgid "Galleries"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:9
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comment"
+msgstr ""
+
+#: ../event_f.php:239 ../event_l.php:264 ../event_r.php:238
+#: ../single-event.php:100
+msgid "Buy Ticket"
+msgstr ""
+
+#: ../event_f.php:243 ../event_l.php:268 ../event_r.php:242
+msgid "View Event Detail"
+msgstr ""
+
+#: ../fields/page.fields.php:158
+msgid "Select Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:158
+msgid "Page Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:158
+msgid ""
+"Select this page header content if you want to display header content other "
+"than default one"
+msgstr ""
+
+#: ../fields/page.fields.php:160
+msgid "Select Sticky Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:160
+msgid "Page Sticky Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:160
+msgid ""
+"Select this page sticky header content if you want to display header content "
+"other than default one"
+msgstr ""
+
+#: ../fields/page.fields.php:162
+msgid "Hide Sticky Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:162
+msgid "Check this option if you want to hide sticky header on this page"
+msgstr ""
+
+#: ../fields/page.fields.php:164
+msgid "Select Transparent Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:164
+msgid "Page Transparent Header (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:164
+msgid ""
+"Select this page transparent header content if you want to display "
+"transparent header content other than default one"
+msgstr ""
+
+#: ../fields/page.fields.php:167
+msgid "Select Fullscreen Menu (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:167
+msgid "Fullscreen Menu (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:167
+msgid ""
+"Select this page fullscreen menu content if you want to display fullscreen "
+"menu other than default one"
+msgstr ""
+
+#: ../fields/page.fields.php:169
+msgid "Side Mobile Menu (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:169
+msgid ""
+"Select this page mobile menu if you want to display mobile menu other than "
+"default one"
+msgstr ""
+
+#: ../fields/page.fields.php:174
+msgid "Select Footer (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:174
+msgid "Page Footer (Optional)"
+msgstr ""
+
+#: ../fields/page.fields.php:174
+msgid ""
+"Select this page footer content if you want to display footer content other "
+"than default one"
+msgstr ""
+
+#: ../fields/page.fields.php:176 ../lib/customizer.lib.php:140
+msgid "Footer"
+msgstr ""
+
+#: ../fields/page.fields.php:176
+msgid "Hide Footer"
+msgstr ""
+
+#: ../fields/page.fields.php:176
+msgid "Check this option if you want to hide default page footer"
+msgstr ""
+
+#: ../functions.php:848 ../lib/theme.filter.lib.php:1463
+msgid "Theme Setting"
+msgstr ""
+
+#: ../functions.php:848 ../functions.php:893
+#: ../modules/class-tgm-plugin-activation.php:2688
+msgid "Version"
+msgstr ""
+
+#: ../functions.php:900 ../modules/content_builder/template.php:19
+msgid "Save"
+msgstr ""
+
+#: ../functions.php:1011
+msgid "Below are fonts that already installed."
+msgstr ""
+
+#: ../functions.php:1036 ../functions.php:1110 ../functions.php:1119
+msgid "Delete"
+msgstr ""
+
+#: ../functions.php:1119
+msgid "Listen current music"
+msgstr ""
+
+#: ../functions.php:1208
+msgid "Theme Default Font"
+msgstr ""
+
+#: ../functions.php:1217
+msgid "Sample Text"
+msgstr ""
+
+#: ../functions.php:1497 ../modules/class-tgm-plugin-activation.php:2874
+msgid "Update"
+msgstr ""
+
+#: ../functions.php:1499
+msgid "Cancel"
+msgstr ""
+
+#: ../functions.php:1512
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:1513
+msgid "Enter Title for this content"
+msgstr ""
+
+#: ../functions.php:1721
+msgid "Content"
+msgstr ""
+
+#: ../functions.php:1722
+msgid "You can enter text, HTML for its content"
+msgstr ""
+
+#: ../functions.php:2038 ../modules/content_builder.php:68
+#: ../modules/content_builder/template.php:81
+msgid "Preview"
+msgstr ""
+
+#: ../functions.php:2039
+msgid "Close"
+msgstr ""
+
+#: ../functions.php:2679 ../search.php:67
+msgid "Projects"
+msgstr ""
+
+#: ../functions.php:2684 ../search.php:72
+msgid "Service"
+msgstr ""
+
+#: ../functions.php:2689 ../search.php:77
+msgid "Client"
+msgstr ""
+
+#: ../functions.php:2727
+msgid "View all results"
+msgstr ""
+
+#: ../functions.php:2762
+msgid "Thank you! We will get back to you as soon as possible"
+msgstr ""
+
+#: ../functions.php:2776
+msgid "[Email Contact]"
+msgstr ""
+
+#: ../functions.php:2788 ../lib/theme.filter.lib.php:929
+#: ../modules/fonts/section-fonts.php:31
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:2789 ../lib/theme.filter.lib.php:930
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:2790 ../templates/comments-form.php:33
+msgid "Message"
+msgstr ""
+
+#: ../functions.php:2794
+msgid "Address"
+msgstr ""
+
+#: ../functions.php:2799
+msgid "Phone"
+msgstr ""
+
+#: ../functions.php:2804 ../lib/customizer.lib.php:219
+msgid "Mobile"
+msgstr ""
+
+#: ../functions.php:2809
+msgid "Company:"
+msgstr ""
+
+#: ../functions.php:2814
+msgid "Country:"
+msgstr ""
+
+#: ../functions.php:2968 ../gallery-horizontal-contained.php:107
+#: ../gallery-horizontal.php:110 ../gallery-mixed-contained.php:118
+#: ../gallery-mixed-grid-contained.php:122 ../gallery-mixed-grid-wide.php:125
+#: ../gallery-mixed-wide.php:121 ../gallery-proofing.php:191
+#: ../gallery-striped-wide.php:98 ../gallery-striped.php:95
+#: ../lib/custom.lib.php:1650 ../modules/script/script-image-flow.php:39
+#: ../modules/script/script-supersized-gallery.php:139
+msgid "Purchase"
+msgstr ""
+
+#: ../functions.php:4145 ../functions.php:4159 ../gallery-proofing.php:208
+msgid "Approved"
+msgstr ""
+
+#: ../functions.php:4187
+msgid "Rejected"
+msgstr ""
+
+#: ../gallery-archive-fullscreen.php:97 ../gallery-archive-parallax.php:107
+#: ../gallery-archive-split-screen.php:111
+msgid "View Gallery"
+msgstr ""
+
+#: ../gallery-kenburns.php:94
+msgid "Your browser doesn't support canvas!"
+msgstr ""
+
+#: ../gallery-proofing.php:118 ../lib/customizer.lib.php:82
+#: ../templates/template-portfolio-filterable.php:29
+msgid "All"
+msgstr ""
+
+#: ../gallery-proofing.php:122
+msgid "Approved Photos"
+msgstr ""
+
+#: ../gallery-proofing.php:126
+msgid "Rejected Photos"
+msgstr ""
+
+#: ../gallery-proofing.php:245
+msgid "View"
+msgstr ""
+
+#: ../gallery-proofing.php:254
+#: ../templates/template-topmenu-center-menus.php:355
+#: ../templates/template-topmenu-left.php:375
+#: ../templates/template-topmenu.php:231
+msgid "Download"
+msgstr ""
+
+#: ../gallery-proofing.php:260
+msgid "Approve"
+msgstr ""
+
+#: ../gallery-proofing.php:264
+msgid "Reject"
+msgstr ""
+
+#: ../header.php:122
+msgid "Back"
+msgstr ""
+
+#: ../header.php:137
+msgid "Share On"
+msgstr ""
+
+#: ../lib/admin.lib.php:667
+msgid "Authorized"
+msgstr ""
+
+#: ../lib/custom.lib.php:57
+msgid "First"
+msgstr ""
+
+#: ../lib/custom.lib.php:58
+msgid "Previous"
+msgstr ""
+
+#: ../lib/custom.lib.php:68
+msgid "Next"
+msgstr ""
+
+#: ../lib/custom.lib.php:69
+msgid "Last"
+msgstr ""
+
+#: ../lib/custom.lib.php:89
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../lib/custom.lib.php:108
+msgid "at"
+msgstr ""
+
+#: ../lib/custom.lib.php:114
+msgid "Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:114
+msgid "Login to Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:178
+msgid "Recent Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:191
+msgid "Popular Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:990
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr ""
+
+#: ../lib/custom.lib.php:991
+msgid "Excerpts"
+msgstr ""
+
+#: ../lib/custom.lib.php:992
+msgid "Attachments"
+msgstr ""
+
+#: ../lib/custom.lib.php:993
+msgid "Links"
+msgstr ""
+
+#: ../lib/custom.lib.php:994
+msgid "Custom Fields"
+msgstr ""
+
+#: ../lib/custom.lib.php:995
+msgid "GUIDs"
+msgstr ""
+
+#: ../lib/custom.lib.php:1246
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../lib/custom.lib.php:1284
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../lib/custom.lib.php:1306
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../lib/custom.lib.php:1337
+msgid "Widget already exists"
+msgstr ""
+
+#: ../lib/custom.lib.php:1386
+msgid "Imported"
+msgstr ""
+
+#: ../lib/custom.lib.php:1389
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../lib/custom.lib.php:1396
+msgid "No Title"
+msgstr ""
+
+#: ../lib/custom.lib.php:1457 ../modules/content_builder.php:227
+msgid "Add"
+msgstr ""
+
+#: ../lib/custom.lib.php:1459 ../modules/content_builder.php:225
+msgid "Edit"
+msgstr ""
+
+#: ../lib/custom.lib.php:1461 ../modules/content_builder.php:223
+msgid "Duplicate"
+msgstr ""
+
+#: ../lib/custom.lib.php:1464 ../modules/content_builder.php:221
+#: ../modules/content_builder/template.php:45
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Control/Image.php:85
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:114
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:453
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:485
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:510
+#: ../modules/kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr ""
+
+#: ../lib/custom.lib.php:2092
+msgid "No Template"
+msgstr ""
+
+#: ../lib/customizer.lib.php:55 ../lib/customizer.lib.php:2600
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:84
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:56 ../lib/customizer.lib.php:2622
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:103
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:57
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:123
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr ""
+
+#: ../lib/customizer.lib.php:58
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:124
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr ""
+
+#: ../lib/customizer.lib.php:59
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:125
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../lib/customizer.lib.php:60
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:126
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../lib/customizer.lib.php:61
+msgid "Inherit"
+msgstr ""
+
+#: ../lib/customizer.lib.php:62
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:119
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lib/customizer.lib.php:63
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:194
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr ""
+
+#: ../lib/customizer.lib.php:64
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:195
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr ""
+
+#: ../lib/customizer.lib.php:65
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:190
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:66
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:228
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr ""
+
+#: ../lib/customizer.lib.php:67
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:227
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr ""
+
+#: ../lib/customizer.lib.php:68
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:222
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:69
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:156
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:50
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:156
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:70
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:157
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:51
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:157
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:71
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:158
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:52
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:158
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:72
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:162
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:53
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:162
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:73
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:163
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:54
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:163
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:74
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:164
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:55
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:164
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:75
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:159
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:56
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:159
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:76
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:160
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:57
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:160
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr ""
+
+#: ../lib/customizer.lib.php:77
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:161
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:58
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:161
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:78
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:152
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr ""
+
+#: ../lib/customizer.lib.php:79
+msgid "Background Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:80
+msgid "ON"
+msgstr ""
+
+#: ../lib/customizer.lib.php:81
+msgid "OFF"
+msgstr ""
+
+#: ../lib/customizer.lib.php:83
+msgid "Cyrillic"
+msgstr ""
+
+#: ../lib/customizer.lib.php:84
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:85
+msgid "Devanagari"
+msgstr ""
+
+#: ../lib/customizer.lib.php:86
+msgid "Greek"
+msgstr ""
+
+#: ../lib/customizer.lib.php:87
+msgid "Greek Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:88
+msgid "Khmer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:89
+msgid "Latin"
+msgstr ""
+
+#: ../lib/customizer.lib.php:90
+msgid "Latin Extended"
+msgstr ""
+
+#: ../lib/customizer.lib.php:91
+msgid "Vietnamese"
+msgstr ""
+
+#: ../lib/customizer.lib.php:113
+msgid "Site Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:120 ../lib/customizer.lib.php:247
+#: ../lib/customizer.lib.php:359 ../lib/customizer.lib.php:380
+#: ../lib/customizer.lib.php:401 ../lib/customizer.lib.php:450
+#: ../lib/customizer.lib.php:478
+msgid "General"
+msgstr ""
+
+#: ../lib/customizer.lib.php:125
+msgid "Navigation"
+msgstr ""
+
+#: ../lib/customizer.lib.php:130
+msgid "Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:135
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:150
+msgid "Portfolio"
+msgstr ""
+
+#: ../lib/customizer.lib.php:155
+msgid "Blog"
+msgstr ""
+
+#: ../lib/customizer.lib.php:160
+msgid "Pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:168 ../modules/woocommerce.php:7
+msgid "Shop"
+msgstr ""
+
+#: ../lib/customizer.lib.php:177 ../modules/kirki-/example.php:71
+msgid "Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:184
+msgid "Fonts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:191 ../lib/customizer.lib.php:254
+#: ../lib/customizer.lib.php:366 ../lib/customizer.lib.php:408
+#: ../lib/customizer.lib.php:457 ../lib/customizer.lib.php:485
+#: ../lib/customizer.lib.php:523 ../modules/kirki-/example.php:86
+msgid "Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:198
+msgid "Background & Colors"
+msgstr ""
+
+#: ../lib/customizer.lib.php:205
+msgid "Input and Button Elements"
+msgstr ""
+
+#: ../lib/customizer.lib.php:212 ../lib/customizer.lib.php:240
+msgid "Sharing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:226
+msgid "Frame"
+msgstr ""
+
+#: ../lib/customizer.lib.php:233
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:261 ../lib/customizer.lib.php:373
+#: ../lib/customizer.lib.php:387
+msgid "Colors"
+msgstr ""
+
+#: ../lib/customizer.lib.php:268 ../lib/customizer.lib.php:324
+#: ../modules/kirki-/example.php:56
+msgid "Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:275
+msgid "Sub Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:282
+msgid "Mega Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:289
+msgid "Top Bar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:296
+msgid "Contact Info"
+msgstr ""
+
+#: ../lib/customizer.lib.php:303
+msgid "Side Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:310
+msgid "Side Menu Search"
+msgstr ""
+
+#: ../lib/customizer.lib.php:317
+msgid "Fullscreen Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:331
+msgid "Page Title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:338
+msgid "Page Title With Background Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:345
+msgid "Content Builder Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:352
+msgid "Page Tagline & Sub Title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:394
+msgid "Copyright"
+msgstr ""
+
+#: ../lib/customizer.lib.php:415
+msgid "Lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:422
+msgid "Archive"
+msgstr ""
+
+#: ../lib/customizer.lib.php:429
+msgid "Fullscreen"
+msgstr ""
+
+#: ../lib/customizer.lib.php:436
+msgid "Kenburns"
+msgstr ""
+
+#: ../lib/customizer.lib.php:443
+msgid "Flow"
+msgstr ""
+
+#: ../lib/customizer.lib.php:464
+msgid "Filterable"
+msgstr ""
+
+#: ../lib/customizer.lib.php:471
+msgid "Single Portfolio Page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:492 ../modules/kirki-/example.php:82
+msgid "Slider"
+msgstr ""
+
+#: ../lib/customizer.lib.php:499
+msgid "Single Post"
+msgstr ""
+
+#: ../lib/customizer.lib.php:506 ../modules/content_builder.php:66
+msgid "Templates"
+msgstr ""
+
+#: ../lib/customizer.lib.php:516
+msgid "Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:530
+msgid "Single Product"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1612
+msgid "Scale Up"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1613
+msgid "Scale Down"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1614
+msgid "Move Down"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1615
+msgid "Move Up"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1616
+msgid "Slide Left"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1617
+msgid "Slide Right"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1618
+msgid "Fade In"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1625
+msgid "Retina Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1626
+msgid ""
+"Retina Ready Image logo. It should be 2x size of normal logo. For example "
+"200x60px logo will displays at 100x30px"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1635
+msgid "Retina Transparent Logo"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1636
+msgid ""
+"Retina Ready Image logo for menu transparent page. It should be 2x size of "
+"normal logo. For example 200x60px logo will displays at 100x30px. Recommend "
+"logo color is white or bright color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1645
+msgid "Display Retina Logo in Theme Setting"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1646
+msgid ""
+"Check this to replace theme setting to your logo. It helps branding your site"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1657
+msgid "Enable Right Click Protection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1658
+msgid "Check this to disable right click."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1667
+msgid "Enable Image Dragging Protection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1668
+msgid "Check this to disable dragging on all images."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1677
+msgid "Default Image Border Radius"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1702
+msgid "Enable Kenburns Effect For Gallery and Portfolio Pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1703
+msgid ""
+"Check this to enable kenburns effect when mouse over gallery and portfolio "
+"images."
+msgstr ""
+
+#: ../lib/customizer.lib.php:1712
+msgid "Enable Lazy Loading Progressive Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1713
+msgid ""
+"Check this to enable loading a very small, blurred image is replaced with "
+"the full-resolution equivalent when the element is scrolled into view. After "
+"activating these setting you may need to regenerate your thumbnails"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1722
+msgid "Body and Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1730
+msgid "Main Content Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1751
+msgid "Header Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1759
+msgid "Header Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1779
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1796
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1813
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1830
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1847
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1864
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1881
+msgid "Other Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1889
+msgid "Blockquote Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1910
+msgid "Main Content Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1942
+msgid "Page Content Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:1974
+msgid "Page Content Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2006
+msgid "Page Content Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2022
+msgid "H1, H2, H3, H4, H5, H6 Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2042
+msgid "Horizontal Line Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2058
+msgid "Appointment Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2066
+msgid "Appointment Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2089
+msgid "Appointment Calendar Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2120
+msgid "Appointment Date/Month Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2143
+msgid "Appointment Reservation Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2170
+msgid "Input and Textarea Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2178
+msgid "Input and Textarea Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2179
+msgid "Select style for input and textarea elements"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2190
+msgid "Input and Textarea Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2211
+msgid "Input and Textarea Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2227
+msgid "Input and Textarea Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2243
+msgid "Input and Textarea Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2259
+msgid "Input and Textarea Focus State Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2282
+msgid "Input and Textarea Border Radius"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2307
+msgid "Label Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2328
+msgid "Label Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2344
+msgid "Button Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2352
+msgid "Button Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2374
+msgid "Button Border Radius"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2399
+msgid "Button Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2440
+msgid "Button Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2463
+msgid "Button Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2495
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2518
+msgid "Button Hover Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2541
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2564
+msgid "Enable Frame"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2565
+msgid "Check this to enable frame for site layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2574
+msgid "Frame Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2590
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2591
+msgid "Check this to enable boxed layout for site layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2623
+msgid "Upload background image for boxed layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2632
+msgid "Enable Sharing Button To All Pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2633
+msgid "Check this to enable sharing button on main menu for pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2644
+msgid "Header Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2652
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2653
+msgid "Enable this to display main menu fixed when scrolling."
+msgstr ""
+
+#: ../lib/customizer.lib.php:2662
+msgid "Display Header Content From"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2663
+msgid "Select how theme get main header & navigation content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2673
+msgid "Default Header Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2681
+msgid "Default Header Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2682
+msgid "Select default header content for general pages & posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2692
+msgid "Default Sticky Header Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2693
+msgid "Select default sticky header content for general pages & posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2703
+msgid "Default Transparent Header Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2704
+msgid "Select default transparent header content for general pages & posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2714
+msgid "General Menu Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2722
+msgid "Menu Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2732
+msgid "Sticky Menu Color Scheme"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2742
+msgid "Menu Font Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2764
+msgid "Menu Padding"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2787
+msgid "Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2807
+msgid "Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2827
+msgid "Menu Active State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2847
+msgid "Menu Bar Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2863
+msgid "Display Border for Transparent Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2864
+msgid "Enable this option to display border for transparent main menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2873
+msgid "Transparent Menu Background Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2883
+msgid "Menu Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2906 ../lib/customizer.lib.php:3290
+#: ../lib/customizer.lib.php:3546
+msgid "Typography Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2914
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2934 ../lib/customizer.lib.php:3336
+msgid "Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2942
+msgid "Sub Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2958
+msgid "Sub Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2974
+msgid "Sub Menu Hover State Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:2990
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3006
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3022
+msgid "Mega Menu Header Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3038
+msgid "Mega Menu Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3054
+msgid "Mega Menu Border Radius"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3079
+msgid "Display Top Bar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3080
+msgid "Enable this option to display top bar above main menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3089
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3105
+msgid "Top Bar Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3121
+msgid "Contact Hours (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3122
+msgid "Enter your company contact hours."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3132
+msgid "Contact Phone Number (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3133
+msgid "Enter your company contact phone number."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3143
+msgid "Open Top Bar Social Icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3144
+msgid "Check this to open top bar social icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3153
+msgid "Enable Search"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3154
+msgid "Select to display search form in header of side menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3163
+msgid "Enable Instant Search"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3164
+msgid "Select to display search result instantly while typing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3173
+msgid "Search Input Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3189
+msgid "Search Input Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3217
+msgid "Default Fullscreen Menu (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3218
+msgid "Select default fullscreen menu for all pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3228
+msgid "Fullscreen Menu Effect"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3229
+msgid "Select transition effect for fullscreen menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3239
+msgid "Default Fullscreen Menu Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3262 ../lib/customizer.lib.php:4278
+#: ../lib/customizer.lib.php:4416
+msgid "General Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3270
+msgid "Enable Side Menu on Desktop"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3280
+msgid "Display Logo Image on Side Menu"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3298
+msgid "Side Menu Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3319
+msgid "Side Menu Icon Size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3344
+msgid "Side Menu Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3366
+msgid "Side Menu Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3382
+msgid "Side Menu Hover State Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3410
+msgid "Page Header Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3426
+msgid "Single Page/Post Overlay Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3442
+msgid "Add Gradient Effect After Header Background Image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3443
+msgid "Enable this option to add gradient effect after header background image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3452
+msgid "Layout Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3460
+msgid "Page Title Alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3461
+msgid "Select alignment for page title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3485
+msgid "Page Header Width (%)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3510
+msgid "Page Header Padding Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3528
+msgid "Page Header Padding Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3554
+msgid "Page Title Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3576
+msgid "Page Title Background Image Height (in %)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3594
+msgid "Page Title Background Image Vertical Alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3607
+msgid "Page Title Background Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3629
+msgid "Page Title Background Image Overlay Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3639
+msgid "Page Tagline Alignment (With Background Image)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3652
+msgid "Content Builder Header Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3673
+msgid "Page Tagline Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3695
+msgid "Page Tagline Font Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3721
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3722
+msgid "Check this to displays sidebar fixed when scrolling."
+msgstr ""
+
+#: ../lib/customizer.lib.php:3731 ../lib/customizer.lib.php:5239
+msgid "Widget Title Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3752
+msgid "Widget Title Alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3753
+msgid "Select alignment for widget title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3777
+msgid "Enable Sidebar Title Border Box"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3786
+msgid "Sidebar Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3802
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3818
+msgid "Sidebar Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3834
+msgid "Sidebar Widget Title Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3852
+msgid "Footer Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3860
+msgid "Display Footer Content From"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3861
+msgid "Select how theme get main footer content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3871
+msgid "Default Footer Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3872
+msgid "Select default footer content for general pages & posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3882
+msgid "Footer Sidebar Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3890
+msgid "Footer Sidebar Columns"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3900
+msgid "Footer Sidebar Padding Top"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3925
+msgid "Footer Sidebar Padding Bottom"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3950
+msgid "Open Footer Social Icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3951
+msgid "Check this to open footer social icons link in new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3960
+msgid "Footer Sidebar Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3968
+msgid "Footer Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:3991
+msgid "Footer Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4007
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4023
+msgid "Footer Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4039
+msgid "Footer Border Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4062
+msgid "Copyright Color Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4070
+msgid "Copyright Background Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4093
+msgid "Copyright Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4116
+msgid "Copyright Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4139
+msgid "Copyright Hover Link Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4162
+msgid "Copyright Content Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4170
+msgid "Copyright Text"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4171
+msgid "Enter your copyright text."
+msgstr ""
+
+#: ../lib/customizer.lib.php:4181
+msgid "Copyright Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4202
+msgid "Copyright Right Area Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4212
+msgid "Go To Top Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4220
+msgid "Go To Top Button"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4230
+msgid "Go To Top Button Background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4252
+msgid "Go To Top Button Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4286
+msgid "Gallery Images Sorting"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4297
+msgid "Gallery Thumbnails Hover Effect"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4308
+msgid "Display Gallery Featured Image as Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4309
+msgid ""
+"Check this to display featured image as background header in single gallery "
+"page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4318
+msgid "Gallery Proofing Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4326
+msgid "Gallery Proofing Display Info"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4341
+msgid "Enable download option for gallery proofing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4342
+msgid "Check this to enable download image option in gallery proofing page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4351
+msgid "Gallery Proofing Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4369
+msgid "Client Gallery Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4377
+msgid "Client Gallery Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4395
+msgid "Gallery Title Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4424
+msgid "Enable theme lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4425
+msgid "Check if you want to enable theme default lightbox for gallery images"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4434
+msgid "Lightbox Plugin"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4448
+msgid "Select lightbox skin color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4449
+msgid "Select which skin you want to use for lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4459
+msgid "Display image caption in lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4460 ../lib/customizer.lib.php:4470
+msgid ""
+"Check if you want to display image caption under the image in lightbox mode"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4469
+msgid "Enable image lightbox in horizontal gallery template"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4479
+msgid "Lightbox Overlay Opacity"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4489
+msgid "Lightbox slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4490
+msgid "Select number of seconds for lightbox slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4500
+msgid "iLightbox Plugin Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4508
+msgid "Select iLightbox thumbnails alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4509
+msgid "Select which alignment you want to use for iLightbox thumbnails"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4519
+msgid "ModuloBox Plugin Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4527
+msgid "Select ModuloBox thumbnails"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4528
+msgid "Select if you want to display ModuloBox thumbnails"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4538
+msgid "Gallery Archive Title Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4552
+msgid "Enable slideshow on hover effect"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4553
+msgid ""
+"Check this option to enable slideshow effect when move mouse over gallery "
+"thumbnail"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4562
+msgid "Enable autoplay slideshow"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4563
+msgid ""
+"Check this option to let fullscreen slideshow starts playing automatically"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4572
+msgid "Enable random slideshow"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4573
+msgid "Check this option to let fullscreen slideshow displays images randomly"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4582
+msgid "Slideshow Timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4583
+msgid "Select number of seconds for Full Screen Slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4593
+msgid "Slideshow Transition Effect"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4594
+msgid "Select transition type for contents in Full Screen slideshow"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4604
+msgid "Slideshow Transition Timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4605
+msgid "Select number of milliseconds for transition between each image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4615
+msgid "Display slideshow image info"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4616
+msgid ""
+"Check this option if you want to display fullscreen slideshow image "
+"information"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4625
+msgid "Image info display options"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4638
+msgid "Display image proportion size"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4639
+msgid ""
+"Check this option if you want to display slide image proportion size without "
+"covering screen"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4648
+msgid "Display slideshow arrows"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4649
+msgid "Check this option if you want to display slide navigation arrow"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4658
+msgid "Kenburns Slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4659
+msgid "Select number of seconds for Kenburns Slideshow timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4669
+msgid "Kenburns Zoom Level"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4670
+msgid "Select zoom level for Kenburns slideshow"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4680
+msgid "Kenburns Transition Timer"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4681
+msgid "Select number of seconds for transition between each image"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4691
+msgid "Display Image Reflection"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4692
+msgid ""
+"Check this option if you want to display mirror reflection effect in flow "
+"gallery"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4701
+msgid "Link flow gallery image to lightbox"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4702
+msgid ""
+"Check this option if you want to link flow gallery to full size image in "
+"lightbox mode"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4715
+msgid "Enable Portfolio Filterable Feature"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4716
+msgid "Check this option to enable filterable feature in portfolio pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4725
+msgid "Link Portfolio Filterable"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4726
+msgid "Check this option to enable linking filterable to its page."
+msgstr ""
+
+#: ../lib/customizer.lib.php:4735
+msgid "Portfolio Filterable Options Sorting"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4745
+msgid "Portfolio Thumbnails Hover Effect"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4756
+msgid "Portfolio Page Show At Most"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4757
+msgid "Select number of portfolio items you want to display per page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4768
+msgid "Portfolio Title Font Weight"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4792
+msgid "Portfolio Title Font Spacing"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4817
+msgid "Portfolio Title Font Text Transform"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4841
+msgid "Portfolio Grid Title Style"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4855
+msgid "Open Portfolio External link to the new window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4856
+msgid ""
+"Check this option to open portfolio external link to the new browser window"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4865
+msgid "Display Next and Previous Portfolios"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4866
+msgid ""
+"Check this option to display next and previous portfolios in single "
+"portfolio page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4875
+msgid "Display Recent Portfolios"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4876
+msgid "Check this option to display recent portfolios in single portfolio page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4885
+msgid "Randomly Select Recent Portfolios"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4886
+msgid "Check this option to sort recent portfolios by random"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4895
+msgid "Portfolio Page (Optional)"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4896
+msgid ""
+"Enter your portfolio page URL so it displays portfolio page link in recent "
+"portfolio module."
+msgstr ""
+
+#: ../lib/customizer.lib.php:4908
+msgid "Display Full Blog Post Content on Blog Classic Layouts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4909
+msgid "Check this option to display post full content in blog classic pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4918
+msgid "Display Post Excerpt on Blog Grid Layouts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4919
+msgid "Check this option to display post excerpt in blog grid pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4928
+msgid "Archive Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4929
+msgid "Select page layout for displaying archive page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4939
+msgid "Category Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4940
+msgid "Select page layout for displaying category page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4950
+msgid "Tag Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4951
+msgid "Select page layout for displaying tag page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4961
+msgid "Post Category Link Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4977
+msgid "General Post Title Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:4985
+msgid "Post Title Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5005
+msgid "Post Title Alignment"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5006
+msgid "Select alignment for blog posts title"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5030
+msgid "Single Post Title Settings"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5038
+msgid "Single Post Title Typography"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5059
+msgid "Display Slider"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5060
+msgid "Check this option to display slider in blog pages"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5069
+msgid "Slider Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5070
+msgid "Select layout for slider posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5080
+msgid "Slider Post Category"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5081
+msgid "Select post category filter for slider posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5091
+msgid "Slider Post Items"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5101
+msgid "Display Post Header"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5102
+msgid "Check this to display featured image as post header background"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5111
+msgid "Display Post Title in Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5112
+msgid "Check this to display post title within post content area"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5121
+msgid "Display Post Featured Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5122
+msgid ""
+"Check this to display featured content (image or gallery) in single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5131
+msgid "Display Post Tags"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5132
+msgid "Check this option to display post tags on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5141
+msgid "Display About Author"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5142
+msgid "Check this option to display about author on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5151
+msgid "Display Related Posts"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5152
+msgid "Check this option to display related posts on single post page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5161
+msgid "Display Sharing Buttons on Single Post Page Content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5162
+msgid "Check this to display sharing buttons on single post page content"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5172
+msgid "Default 404 Page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5173
+msgid "Select a page template for 404 not found page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5187
+msgid "Shop Main Page Layout"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5188
+msgid "Select page layout for displaying shop's products page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5198
+msgid "Shop Layout Columns"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5208
+msgid "Image Swap"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5209
+msgid ""
+"Check this option to display product gallery image when move mouse over "
+"product thumbnail"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5218
+msgid "Display Add to Cart"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5219
+msgid "Check this option to display Add to Cart button"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5228
+msgid "Products Page Show At Most"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5229
+msgid "Select number of product items you want to display per page"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5260
+msgid "Product Price Font Color"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5276
+msgid "Display Related Products"
+msgstr ""
+
+#: ../lib/customizer.lib.php:5277
+msgid "Check this option to display related products on single product page"
+msgstr ""
+
+#: ../lib/gutenberg.lib.php:40
+#, php-format
+msgid "Edit &#8220;%s&#8221; in the Gutenberg editor"
+msgstr ""
+
+#: ../lib/gutenberg.lib.php:44
+msgid "Gutenberg Editor"
+msgstr ""
+
+#: ../lib/gutenberg.lib.php:52
+#, php-format
+msgid "Edit &#8220;%s&#8221; in the Classic editor"
+msgstr ""
+
+#: ../lib/gutenberg.lib.php:56
+msgid "Classic Editor"
+msgstr ""
+
+#: ../lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:8
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:9
+msgid "Top Bar Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:10
+msgid "Side (Mobile) Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:11
+msgid "Footer Menu"
+msgstr ""
+
+#: ../lib/tgm.lib.php:147 ../modules/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/tgm.lib.php:148 ../modules/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/tgm.lib.php:149 ../modules/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/tgm.lib.php:150 ../modules/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/tgm.lib.php:151 ../modules/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/tgm.lib.php:152 ../modules/class-tgm-plugin-activation.php:399
+#: ../modules/class-tgm-plugin-activation.php:3312
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/tgm.lib.php:153
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:96
+msgid "Demo Import"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:97
+msgid "Import Demo Content"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:571
+msgid "Gallery Category Page Template"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:598 ../lib/theme.filter.lib.php:675
+msgid "Select page template for this gallery category"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:637
+msgid "Portfolio Category Page Template"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:714
+msgid "Event Category Page Template"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:735
+msgid "Select page template for this event category"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:933 ../templates/comments-form.php:27
+msgid "Website"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:986
+msgid "Purchase URL"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1086 ../lib/theme.filter.lib.php:1108
+msgid "Excerpt"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1168
+msgid "Edit in Content Builder"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1169
+msgid "Edit in Classic Editor"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1498
+msgid "Clear"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1499
+msgid "Clear color"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1500
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Control/Image.php:87
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:113
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:852
+#: ../modules/kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1501
+msgid "Select default color"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1502
+msgid "Select Color"
+msgstr ""
+
+#: ../lib/theme.filter.lib.php:1503
+msgid "Color value"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:398
+#: ../modules/class-tgm-plugin-activation.php:918
+#: ../modules/class-tgm-plugin-activation.php:2668
+#: ../modules/class-tgm-plugin-activation.php:3743
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:400
+#: ../modules/class-tgm-plugin-activation.php:3104
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:613
+msgid "Update Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1027
+#: ../modules/class-tgm-plugin-activation.php:1037
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:1197
+msgid "Installation/Update Of Required Plugins Needed"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2094
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2385
+msgid "Required"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2388
+msgid "Recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2404
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2407
+msgid "External Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2410
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2429
+msgid ""
+"Please register your product from Theme Setting > Registration first to "
+"install the plugin"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2432
+msgid "Not Installed"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2437
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2439
+msgid "Active"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2445
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2449
+msgid ""
+"Please register your product from Theme Setting > Registration first to "
+"update the plugin"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2452
+msgid "Requires Update"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2456
+msgid "Update recommended"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2515
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2519
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2523
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2625
+msgid "Installed version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2633
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2645
+msgid "Available version:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2668
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2682
+msgid "Plugin"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2683
+msgid "Source"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2684
+msgid "Type"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2689
+msgid "Status"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2739
+#: ../modules/class-tgm-plugin-activation.php:2743
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2751
+#: ../modules/class-tgm-plugin-activation.php:2756
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2763
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2835
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2868
+msgid "Install"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2877
+msgid "Activate"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2910
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2951
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:2953
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3060
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3086
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3311
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3656
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3659
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3665
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3667
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3668
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3670
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3673
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3675
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3676
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3678
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3683
+msgid "Show Details"
+msgstr ""
+
+#: ../modules/class-tgm-plugin-activation.php:3683
+msgid "Hide Details"
+msgstr ""
+
+#: ../modules/content_builder.php:64
+msgid "Developer View"
+msgstr ""
+
+#: ../modules/content_builder.php:80
+msgid "Undo"
+msgstr ""
+
+#: ../modules/content_builder.php:82
+msgid "Redo"
+msgstr ""
+
+#: ../modules/content_builder.php:84
+msgid "Unsaved Page Content."
+msgstr ""
+
+#: ../modules/content_builder.php:86
+msgid "Live View"
+msgstr ""
+
+#: ../modules/content_builder.php:88
+msgid "Classic View"
+msgstr ""
+
+#: ../modules/content_builder.php:90
+msgid "Refresh"
+msgstr ""
+
+#: ../modules/content_builder.php:92 ../modules/content_builder.php:256
+msgid "Add Content"
+msgstr ""
+
+#: ../modules/content_builder.php:94
+msgid "Saved"
+msgstr ""
+
+#: ../modules/content_builder.php:94
+msgid "Save Changes"
+msgstr ""
+
+#: ../modules/content_builder.php:96
+msgid "Content Builder Documentation"
+msgstr ""
+
+#: ../modules/content_builder.php:128
+msgid "You are editing"
+msgstr ""
+
+#: ../modules/content_builder.php:218
+msgid "Expand"
+msgstr ""
+
+#: ../modules/content_builder.php:219
+msgid "Contract"
+msgstr ""
+
+#: ../modules/content_builder.php:249
+msgid "Get started"
+msgstr ""
+
+#: ../modules/content_builder.php:250
+msgid ""
+"Currently you have no content. Start adding content by clicking button below"
+msgstr ""
+
+#: ../modules/content_builder.php:263
+msgid "Import Template"
+msgstr ""
+
+#: ../modules/content_builder.php:278
+msgid "Import"
+msgstr ""
+
+#: ../modules/content_builder.php:279
+msgid "Export"
+msgstr ""
+
+#: ../modules/content_builder.php:283
+msgid "Import Page Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:284
+msgid ""
+"Choose the import file. *Note: Your current content builder content will be "
+"overwritten by imported data"
+msgstr ""
+
+#: ../modules/content_builder.php:294
+msgid "Export Current Page Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:295
+msgid ""
+"Click to export current content builder data. *Note: Please make sure you "
+"save all changes and no \"unsaved\" module"
+msgstr ""
+
+#: ../modules/content_builder.php:319
+msgid "There are unsaved content builder settings"
+msgstr ""
+
+#: ../modules/content_builder/add_content.php:56
+msgid "Insert"
+msgstr ""
+
+#: ../modules/content_builder/template.php:11
+msgid "My Templates"
+msgstr ""
+
+#: ../modules/content_builder/template.php:12
+msgid "Predefined Templates"
+msgstr ""
+
+#: ../modules/content_builder/template.php:18
+msgid "Template Name"
+msgstr ""
+
+#: ../modules/content_builder/template.php:22
+msgid "Template Name must have at least 3 characters"
+msgstr ""
+
+#: ../modules/content_builder/template.php:27
+msgid "Saved Templates"
+msgstr ""
+
+#: ../modules/content_builder/template.php:28
+msgid "Predefined templates are built-in theme using demo pages"
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:290
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:301
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:11
+msgid "Uploaded Fonts Settings"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:18
+msgid "Uploaded Fonts"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:19
+msgid "Here you can add your custom fonts"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:26
+msgid "Upload Font"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:35
+msgid "Font File (*.woff)"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:39
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:60
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:56
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:62
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:59
+msgid "Normal"
+msgstr ""
+
+#: ../modules/fonts/section-fonts.php:60
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:116
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:135
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:116
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr ""
+
+#: ../modules/kirki-/example.php:42
+msgid "Kirki Demo Panel"
+msgstr ""
+
+#: ../modules/kirki-/example.php:43
+msgid "Contains sections for all kirki controls."
+msgstr ""
+
+#: ../modules/kirki-/example.php:57
+msgid "Code"
+msgstr ""
+
+#: ../modules/kirki-/example.php:58 ../modules/kirki-/example.php:1069
+msgid "Checkbox"
+msgstr ""
+
+#: ../modules/kirki-/example.php:59
+msgid "Color"
+msgstr ""
+
+#: ../modules/kirki-/example.php:60
+msgid "Color — Advanced"
+msgstr ""
+
+#: ../modules/kirki-/example.php:61
+msgid "Color Palette"
+msgstr ""
+
+#: ../modules/kirki-/example.php:62
+msgid "Custom"
+msgstr ""
+
+#: ../modules/kirki-/example.php:63
+msgid "Dashicons"
+msgstr ""
+
+#: ../modules/kirki-/example.php:64
+msgid "Date"
+msgstr ""
+
+#: ../modules/kirki-/example.php:65
+msgid "Dimension"
+msgstr ""
+
+#: ../modules/kirki-/example.php:66
+msgid "Dimensions"
+msgstr ""
+
+#: ../modules/kirki-/example.php:67
+msgid "Dropdown Pages"
+msgstr ""
+
+#: ../modules/kirki-/example.php:68
+msgid "Editor"
+msgstr ""
+
+#: ../modules/kirki-/example.php:69
+msgid "Font-Awesome"
+msgstr ""
+
+#: ../modules/kirki-/example.php:70
+msgid "Generic"
+msgstr ""
+
+#: ../modules/kirki-/example.php:72
+msgid "Multicheck"
+msgstr ""
+
+#: ../modules/kirki-/example.php:73
+msgid "Multicolor"
+msgstr ""
+
+#: ../modules/kirki-/example.php:74
+msgid "Number"
+msgstr ""
+
+#: ../modules/kirki-/example.php:75
+msgid "Palette"
+msgstr ""
+
+#: ../modules/kirki-/example.php:76
+msgid "Preset"
+msgstr ""
+
+#: ../modules/kirki-/example.php:77
+msgid "Radio"
+msgstr ""
+
+#: ../modules/kirki-/example.php:77
+msgid "A plain Radio control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:78
+msgid "Radio Buttonset"
+msgstr ""
+
+#: ../modules/kirki-/example.php:78
+msgid ""
+"Radio-Buttonset controls are essentially radio controls with some fancy "
+"styling to make them look cooler."
+msgstr ""
+
+#: ../modules/kirki-/example.php:79
+msgid "Radio Image"
+msgstr ""
+
+#: ../modules/kirki-/example.php:79
+msgid ""
+"Radio-Image controls are essentially radio controls with some fancy styles "
+"to use images"
+msgstr ""
+
+#: ../modules/kirki-/example.php:80
+msgid "Repeater"
+msgstr ""
+
+#: ../modules/kirki-/example.php:81
+msgid "Select"
+msgstr ""
+
+#: ../modules/kirki-/example.php:83
+msgid "Sortable"
+msgstr ""
+
+#: ../modules/kirki-/example.php:84
+msgid "Switch"
+msgstr ""
+
+#: ../modules/kirki-/example.php:85
+msgid "Toggle"
+msgstr ""
+
+#: ../modules/kirki-/example.php:87
+msgid "Upload"
+msgstr ""
+
+#: ../modules/kirki-/example.php:105
+msgid "Test Link Section"
+msgstr ""
+
+#: ../modules/kirki-/example.php:107
+msgid "Pro"
+msgstr ""
+
+#: ../modules/kirki-/example.php:120
+msgid "Background Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:121
+msgid "Background conrols are pretty complex! (but useful if properly used)"
+msgstr ""
+
+#: ../modules/kirki-/example.php:142
+msgid "Code Control — CSS"
+msgstr ""
+
+#: ../modules/kirki-/example.php:143
+msgid "Sample of code control in CSS format"
+msgstr ""
+
+#: ../modules/kirki-/example.php:160
+msgid "Checkbox Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:161
+msgid "Sample of checkbox control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:178
+msgid ""
+"This is a color control registered using `Kirki::add_field` with \"alpha\" "
+"=> true (the old Kirki API)."
+msgstr ""
+
+#: ../modules/kirki-/example.php:191
+msgid "Hex only"
+msgstr ""
+
+#: ../modules/kirki-/example.php:192
+msgid "This is a color control without alpha channel."
+msgstr ""
+
+#: ../modules/kirki-/example.php:202
+msgid "With alpha channel"
+msgstr ""
+
+#: ../modules/kirki-/example.php:203
+msgid "This is a color control with alpha channel."
+msgstr ""
+
+#: ../modules/kirki-/example.php:215
+msgid "Hue only."
+msgstr ""
+
+#: ../modules/kirki-/example.php:216
+msgid "This is a color control with \"mode\" => \"hue\" (hue mode)."
+msgstr ""
+
+#: ../modules/kirki-/example.php:237
+msgid "v4 — form_component — HexColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:238
+msgid "This is a color control with form_component value is HexColorPicker."
+msgstr ""
+
+#: ../modules/kirki-/example.php:263
+msgid "v4 — form_component — RgbColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:264
+msgid ""
+"This is a color control with form_component value is RgbColorPicker. The "
+"saved value will be an array."
+msgstr ""
+
+#: ../modules/kirki-/example.php:284
+msgid "v4 — form_component — RgbStringColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:285
+msgid ""
+"This is a color control with form_component value is RgbStringColorPicker. "
+"The saved value will be a string."
+msgstr ""
+
+#: ../modules/kirki-/example.php:310
+msgid "v4 — form_component — RgbaColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:311
+msgid ""
+"This is a color control with form_component value is RgbaColorPicker.  The "
+"saved value will be an array."
+msgstr ""
+
+#: ../modules/kirki-/example.php:331
+msgid "v4 — form_component — RgbaStringColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:332
+msgid ""
+"This is a color control with form_component value is RgbaStringColorPicker. "
+"The saved value will be a string."
+msgstr ""
+
+#: ../modules/kirki-/example.php:356
+msgid "v4 — form_component — HslColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:357
+msgid ""
+"This is a color control with form_component value is HslColorPicker. The "
+"saved value will be an array"
+msgstr ""
+
+#: ../modules/kirki-/example.php:377
+msgid "v4 — form_component — HslStringColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:378
+msgid ""
+"This is a color control with form_component value is HslStringColorPicker. "
+"The saved value will be a string"
+msgstr ""
+
+#: ../modules/kirki-/example.php:403
+msgid "v4 — form_component — HslaColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:404
+msgid ""
+"This is a color control with form_component value is HslaColorPicker. The "
+"saved value will be an array"
+msgstr ""
+
+#: ../modules/kirki-/example.php:424
+msgid "v4 — form_component — HslaStringColorPicker"
+msgstr ""
+
+#: ../modules/kirki-/example.php:425
+msgid ""
+"This is a color control with form_component value is HslaStringColorPicker. "
+"The saved value will be a string"
+msgstr ""
+
+#: ../modules/kirki-/example.php:441
+msgid "Date Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:442 ../modules/kirki-/example.php:452
+msgid "This is a date control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:451
+msgid "Date Control 2"
+msgstr ""
+
+#: ../modules/kirki-/example.php:464
+msgid "First Editor Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:465
+msgid "This is an editor control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:474
+msgid "Second Editor Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:475
+msgid ""
+"This is a 2nd editor control just to check that we do not have issues with "
+"multiple instances."
+msgstr ""
+
+#: ../modules/kirki-/example.php:477
+msgid "Default Text"
+msgstr ""
+
+#: ../modules/kirki-/example.php:489
+msgid "Simple Colors Set"
+msgstr ""
+
+#: ../modules/kirki-/example.php:490
+msgid "With default size (28). The `size` here is inner size (without border)"
+msgstr ""
+
+#: ../modules/kirki-/example.php:504
+msgid "Material Design Colors — All"
+msgstr ""
+
+#: ../modules/kirki-/example.php:505
+msgid "Showing all material design colors using `round` shape and size is 17"
+msgstr ""
+
+#: ../modules/kirki-/example.php:520
+msgid "Material Design Colors — Primary"
+msgstr ""
+
+#: ../modules/kirki-/example.php:521
+msgid "Showing primary material design colors"
+msgstr ""
+
+#: ../modules/kirki-/example.php:533
+msgid "Material Design Colors — Red"
+msgstr ""
+
+#: ../modules/kirki-/example.php:534
+msgid "Showing red material design colors"
+msgstr ""
+
+#: ../modules/kirki-/example.php:546
+msgid "Material Design Colors — A100"
+msgstr ""
+
+#: ../modules/kirki-/example.php:547
+msgid "Showing \"A100\" variant of material design colors"
+msgstr ""
+
+#: ../modules/kirki-/example.php:617
+msgid "Custom Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:632
+msgid "Dashicons Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:633
+msgid "Using a custom array of dashicons"
+msgstr ""
+
+#: ../modules/kirki-/example.php:651
+msgid "All Dashicons"
+msgstr ""
+
+#: ../modules/kirki-/example.php:652
+msgid "Showing all dashicons"
+msgstr ""
+
+#: ../modules/kirki-/example.php:664 ../modules/kirki-/example.php:693
+msgid "Dimension Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:665
+msgid "A simple dimension control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:680
+msgid "Dimensions Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:681
+msgid "Sample of dimensions control with 2 fields."
+msgstr ""
+
+#: ../modules/kirki-/example.php:694
+msgid "Sample of dimensions control with 4 fields."
+msgstr ""
+
+#: ../modules/kirki-/example.php:708
+msgid "Padding Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:709
+msgid "Sample of padding controls with 3 fields."
+msgstr ""
+
+#: ../modules/kirki-/example.php:722
+msgid "Spacing Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:723
+msgid "Sample of spacing controls with 4 fields."
+msgstr ""
+
+#: ../modules/kirki-/example.php:740
+msgid "Dropdown Pages Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:741
+msgid "Sample of dropdown pages control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:756
+msgid "Generic Control — Text Field"
+msgstr ""
+
+#: ../modules/kirki-/example.php:757
+msgid ""
+"The demo of this control has partial refresh with transport is postMessage"
+msgstr ""
+
+#: ../modules/kirki-/example.php:776
+msgid "Generic Control — URL Field"
+msgstr ""
+
+#: ../modules/kirki-/example.php:777
+msgid ""
+"The demo of this control has partial refresh without transport is defined"
+msgstr ""
+
+#: ../modules/kirki-/example.php:795
+msgid "Generic Control — Textarea Field"
+msgstr ""
+
+#: ../modules/kirki-/example.php:796
+msgid "Description"
+msgstr ""
+
+#: ../modules/kirki-/example.php:805
+msgid "Generic Control — Custom Input."
+msgstr ""
+
+#: ../modules/kirki-/example.php:806
+msgid ""
+"The \"generic\" control allows you to add any input type you want. In this "
+"case we use type=\"password\" and define custom styles."
+msgstr ""
+
+#: ../modules/kirki-/example.php:824
+msgid "Image Control (URL)"
+msgstr ""
+
+#: ../modules/kirki-/example.php:825
+msgid "The saved value will be the URL."
+msgstr ""
+
+#: ../modules/kirki-/example.php:834
+msgid "Image Control (ID)"
+msgstr ""
+
+#: ../modules/kirki-/example.php:835
+msgid "The saved value will an ID."
+msgstr ""
+
+#: ../modules/kirki-/example.php:847
+msgid "Image Control (array)"
+msgstr ""
+
+#: ../modules/kirki-/example.php:848
+msgid "The saved value will an array."
+msgstr ""
+
+#: ../modules/kirki-/example.php:863
+msgid "Upload Control (URL)"
+msgstr ""
+
+#: ../modules/kirki-/example.php:864
+msgid "The saved value will the URL."
+msgstr ""
+
+#: ../modules/kirki-/example.php:877
+msgid "Multickeck Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:882 ../modules/kirki-/example.php:976
+#: ../modules/kirki-/example.php:996 ../modules/kirki-/example.php:1088
+#: ../modules/kirki-/example.php:1106 ../modules/kirki-/example.php:1162
+msgid "Option 1"
+msgstr ""
+
+#: ../modules/kirki-/example.php:883 ../modules/kirki-/example.php:977
+#: ../modules/kirki-/example.php:997 ../modules/kirki-/example.php:1089
+#: ../modules/kirki-/example.php:1107 ../modules/kirki-/example.php:1163
+msgid "Option 2"
+msgstr ""
+
+#: ../modules/kirki-/example.php:884 ../modules/kirki-/example.php:978
+#: ../modules/kirki-/example.php:998 ../modules/kirki-/example.php:1090
+#: ../modules/kirki-/example.php:1108 ../modules/kirki-/example.php:1164
+msgid "Option 3"
+msgstr ""
+
+#: ../modules/kirki-/example.php:885 ../modules/kirki-/example.php:979
+#: ../modules/kirki-/example.php:1091 ../modules/kirki-/example.php:1109
+#: ../modules/kirki-/example.php:1165
+msgid "Option 4"
+msgstr ""
+
+#: ../modules/kirki-/example.php:886 ../modules/kirki-/example.php:980
+#: ../modules/kirki-/example.php:1092 ../modules/kirki-/example.php:1110
+#: ../modules/kirki-/example.php:1166
+msgid "Option 5"
+msgstr ""
+
+#: ../modules/kirki-/example.php:897
+msgid "Multicolor Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:902
+msgid "Link Color"
+msgstr ""
+
+#: ../modules/kirki-/example.php:903
+msgid ""
+"And this is hover color with long label so you know how it is displayed."
+msgstr ""
+
+#: ../modules/kirki-/example.php:904
+msgid "Active Color"
+msgstr ""
+
+#: ../modules/kirki-/example.php:905
+msgid "Another color 1"
+msgstr ""
+
+#: ../modules/kirki-/example.php:906
+msgid "Another color 2"
+msgstr ""
+
+#: ../modules/kirki-/example.php:907
+msgid "Another color 3"
+msgstr ""
+
+#: ../modules/kirki-/example.php:908
+msgid "Another color 4"
+msgstr ""
+
+#: ../modules/kirki-/example.php:909
+msgid "Another color 5"
+msgstr ""
+
+#: ../modules/kirki-/example.php:910
+msgid "Another color 6"
+msgstr ""
+
+#: ../modules/kirki-/example.php:911
+msgid "Another color 7"
+msgstr ""
+
+#: ../modules/kirki-/example.php:912
+msgid "Another color 8"
+msgstr ""
+
+#: ../modules/kirki-/example.php:913
+msgid "Another color 9"
+msgstr ""
+
+#: ../modules/kirki-/example.php:914
+msgid "Another color 10"
+msgstr ""
+
+#: ../modules/kirki-/example.php:915
+msgid "Another color 11"
+msgstr ""
+
+#: ../modules/kirki-/example.php:916
+msgid "Another color 12"
+msgstr ""
+
+#: ../modules/kirki-/example.php:917
+msgid "Another color 13"
+msgstr ""
+
+#: ../modules/kirki-/example.php:918
+msgid "Another color 14"
+msgstr ""
+
+#: ../modules/kirki-/example.php:919
+msgid "Another color 15"
+msgstr ""
+
+#: ../modules/kirki-/example.php:936
+msgid "Number Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:953
+msgid "Control Palette"
+msgstr ""
+
+#: ../modules/kirki-/example.php:971
+msgid "Radio Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:972
+msgid "The description here."
+msgstr ""
+
+#: ../modules/kirki-/example.php:991
+msgid "Radio-Buttonset Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:992
+msgid "Sample of radio-buttonset control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1009
+msgid "Radio-Image Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1010
+msgid "Sample of radio image control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1027
+msgid "Repeater Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1028
+msgid "Sample of repeater control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1032
+msgid "Kirki Site"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1038
+msgid "Kirki Repository"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1047
+msgid "Link Text"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1048
+msgid "This will be the label for your link"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1053
+msgid "Link URL"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1054
+msgid "This will be the link URL"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1059
+msgid "Link Target"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1060
+msgid "This will be the link target"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1063
+msgid "New Window"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1064
+msgid "Same Frame"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1082 ../modules/kirki-/example.php:1100
+msgid "Select Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1083
+msgid "Sample of single mode select control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1086
+msgid "Select an option"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1101
+msgid "Sample of multiple mode select control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1121
+msgid "Slider Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1122
+msgid "Sample of slider control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1126
+msgid "This is the tooltip"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1140
+msgid "Slider Control — Using Old Way"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1158
+msgid "This is a sortable control."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1167
+msgid "Option 6"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1178
+msgid "Switch Field"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1179
+msgid "Simple switch control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1189
+msgid "Switch Field — With custom labels"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1190
+msgid "Switch control using custom labels"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1194
+msgid "Enabled"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1195
+msgid "Disabled"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1215
+msgid "Toggle Field"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1216
+msgid ""
+"Toggle is just utilizing switch control but aligned horizontally & without "
+"the text"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1230 ../modules/kirki-/example.php:1284
+msgid "Typography Control"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1231
+msgid "The full set of options."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1285
+msgid "Just the font-family and font-weight."
+msgstr ""
+
+#: ../modules/kirki-/example.php:1320
+msgid "Sidebars Select"
+msgstr ""
+
+#: ../modules/kirki-/example.php:1321
+msgid "An example of how to implement sidebars selection."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Field.php:261
+#: ../modules/kirki/kirki-packages/compatibility/src/Field.php:276
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Field.php:272
+#: ../modules/kirki/kirki-packages/compatibility/src/Field.php:287
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Field.php:388
+#: ../modules/kirki/kirki-packages/compatibility/src/Field.php:403
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Field.php:514
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Field.php:525
+#: ../modules/kirki-/packages/kirki-framework/module-css/src/CSS.php:133
+#: ../modules/kirki-/packages/kirki-framework/module-css/src/CSS.php:144
+#: ../modules/kirki-/packages/kirki-framework/module-postmessage/src/Postmessage.php:69
+#: ../modules/kirki/kirki-packages/compatibility/src/Field.php:529
+#: ../modules/kirki/kirki-packages/compatibility/src/Field.php:540
+#: ../modules/kirki/kirki-packages/module-css/src/CSS.php:133
+#: ../modules/kirki/kirki-packages/module-css/src/CSS.php:144
+#: ../modules/kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Init.php:206
+#: ../modules/kirki/kirki-packages/compatibility/src/Init.php:207
+msgid ""
+"We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please "
+"use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Init.php:257
+#: ../modules/kirki/kirki-packages/compatibility/src/Init.php:258
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Init.php:260
+#: ../modules/kirki/kirki-packages/compatibility/src/Init.php:261
+msgid "Install Plugin"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Init.php:261
+#: ../modules/kirki/kirki-packages/compatibility/src/Init.php:262
+msgid "Don't show this again"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/Kirki.php:191
+#: ../modules/kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/compatibility/src/deprecated/functions.php:20
+#: ../modules/kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-checkbox/src/Control/Checkbox_Switch.php:79
+#: ../modules/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-checkbox/src/Control/Checkbox_Switch.php:80
+#: ../modules/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:102
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:103
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:104
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:105
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:106
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:108
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:109
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:110
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:112
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:113
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:114
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:115
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:116
+#: ../modules/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-dimension/src/Control/Dimension.php:67
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:74
+#: ../modules/kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-image/dist/control.js:1
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Control/Image.php:82
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:115
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/control.js:100
+#: ../modules/kirki/kirki-packages/control-image/dist/control.js:1
+#: ../modules/kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: ../modules/kirki/kirki-packages/control-image/src/control.js:100
+msgid "No image selected"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Control/Image.php:89
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:111
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:116
+#: ../modules/kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:112
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-image/src/Field/Image.php:117
+#: ../modules/kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-react-select/src/Control/ReactSelect.php:162
+#: ../modules/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-react-select/src/Control/ReactSelect.php:169
+#: ../modules/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+#, php-format
+msgid "You can only select %s items"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:104
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:139
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:275
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:448
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:456
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:458
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:480
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:488
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/control-repeater/src/Control/Repeater.php:490
+#: ../modules/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-background/src/Background.php:196
+#: ../modules/kirki/kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:59
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:323
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:61
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:402
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:63
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:407
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:64
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:65
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:66
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:67
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:351
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:68
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:353
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:69
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:352
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:70
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:71
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:72
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-dimensions/src/Dimensions.php:73
+#: ../modules/kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:112
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:131
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:112
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:120
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:179
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:120
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:124
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:183
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:124
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:139
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:143
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:147
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:151
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:155
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:159
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:163
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:167
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:171
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:175
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:187
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:191
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:195
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:199
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:274
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:301
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:328
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:347
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:350
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:354
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:359
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:362
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:382
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:362
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:363
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:364
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:365
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:379
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:383
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:384
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:385
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:386
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:387
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:422
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:427
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:850
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:877
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/field-typography/src/Field/Typography.php:882
+#: ../modules/kirki/kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-sections/src/Section_Types/Nested.php:62
+#: ../modules/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-sections/src/Section_Types/Nested.php:65
+#: ../modules/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:162
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:163
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:164
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:165
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:166
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:167
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:168
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:169
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:170
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:171
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:172
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:173
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:174
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:175
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:176
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:177
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:178
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:179
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:180
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:181
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:182
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:183
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: ../modules/kirki-/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:184
+#: ../modules/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: ../modules/kirki-/upgrade-notifications.php:30
+#: ../modules/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/src/SetupSettings.php:54
+#: ../modules/kirki/kirki-packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid ""
+"In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on "
+"your server."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid ""
+"If Google Fonts selected in the Customizer are not displayed correctly, "
+"please try clearing the font cache."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid ""
+"It provides advanced customization options within the WordPress Customizer, "
+"allowing you to easily modify the appearance of your site."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid ""
+"The following article provides a detailed explanation of the Clear Font "
+"Cache option in Kirki."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr ""
+
+#: ../modules/kirki/kirki-packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:222
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:228
+msgid "Contact your network administrator to install the update."
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:233
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:241
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:252
+msgid "Update now."
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../modules/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "Error"
+msgstr ""
+
+#: ../modules/script/script-contact-form.php:44
+msgid "Please enter"
+msgstr ""
+
+#: ../modules/script/script-contact-form.php:48
+msgid "Please check"
+msgstr ""
+
+#: ../modules/script/script-contact-form.php:54
+msgid "Please enter valid"
+msgstr ""
+
+#: ../modules/script/script-get-captcha.php:12
+msgid "Please enter correct captcha text"
+msgstr ""
+
+#: ../portfolio-fullscreen-split-screen.php:134 ../portfolio-fullscreen.php:118
+#: ../portfolio-parallax.php:108
+msgid "Open Link"
+msgstr ""
+
+#: ../portfolio-fullscreen-split-screen.php:142 ../portfolio-fullscreen.php:143
+#: ../portfolio-parallax.php:129
+msgid "View Portfolio"
+msgstr ""
+
+#: ../portfolio-fullscreen-split-screen.php:150 ../portfolio-fullscreen.php:167
+#: ../portfolio-parallax.php:149
+msgid "View Image"
+msgstr ""
+
+#: ../portfolio-fullscreen-split-screen.php:158
+#: ../portfolio-fullscreen-split-screen.php:166
+#: ../portfolio-fullscreen-split-screen.php:177 ../portfolio-fullscreen.php:191
+#: ../portfolio-fullscreen.php:215 ../portfolio-fullscreen.php:243
+#: ../portfolio-parallax.php:170 ../portfolio-parallax.php:190
+#: ../portfolio-parallax.php:214
+msgid "Play Video"
+msgstr ""
+
+#: ../portfolio-preview-page.php:193 ../single-portfolio.php:154
+msgid "Recent Portfolios"
+msgstr ""
+
+#: ../portfolio-preview-page.php:372 ../single-portfolio.php:333
+msgid "View All Portfolios"
+msgstr ""
+
+#: ../portfolio-preview-page.php:393 ../single-portfolio-vimeo.php:35
+#: ../single-portfolio-youtube.php:35 ../single-portfolio.php:354
+msgid "Pages:"
+msgstr ""
+
+#: ../portfolio-preview-page.php:398 ../single-portfolio-vimeo.php:40
+#: ../single-portfolio-youtube.php:40 ../single-portfolio.php:359
+msgid "Next page"
+msgstr ""
+
+#: ../portfolio-preview-page.php:399 ../single-portfolio-vimeo.php:41
+#: ../single-portfolio-youtube.php:41 ../single-portfolio.php:360
+msgid "Previous page"
+msgstr ""
+
+#: ../search.php:28
+msgid "If you didn't find what you were looking for, try a new search."
+msgstr ""
+
+#: ../single-event.php:88
+msgid "Detail"
+msgstr ""
+
+#: ../single-event.php:114
+msgid "Start Date"
+msgstr ""
+
+#: ../single-event.php:129
+msgid "Location"
+msgstr ""
+
+#: ../single-event.php:142
+msgid "Get Directions"
+msgstr ""
+
+#: ../single-post-f.php:272 ../single-post-l.php:271 ../single-post-r.php:272
+#: ../single-post-split.php:315
+msgid "You might also like"
+msgstr ""
+
+#: ../templates/comments-form.php:13
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../templates/comments-form.php:17
+msgid "Logged in as"
+msgstr ""
+
+#: ../templates/comments-form.php:21
+msgid "Name (required)"
+msgstr ""
+
+#: ../templates/comments-form.php:24
+msgid "Email (required)"
+msgstr ""
+
+#: ../templates/comments-form.php:37
+msgid "Submit"
+msgstr ""
+
+#: ../templates/template-client-password.php:39
+#: ../templates/template-password.php:39
+msgid "Error Password is incorrect"
+msgstr ""
+
+#: ../templates/template-client-password.php:115
+msgid ""
+"This is restricted area. Please enter your password below to authenticate"
+msgstr ""
+
+#: ../templates/template-client-password.php:126
+#: ../templates/template-password.php:101
+msgid "Password"
+msgstr ""
+
+#: ../templates/template-client-password.php:127
+msgid "Login"
+msgstr ""
+
+#: ../templates/template-fullmenu.php:69 ../templates/template-sidemenu.php:23
+msgid "Search..."
+msgstr ""
+
+#: ../templates/template-header.php:59
+msgid "Blog Archives"
+msgstr ""
+
+#: ../templates/template-header.php:68
+msgid "Search"
+msgstr ""
+
+#: ../templates/template-header.php:135
+msgid "Search Results for "
+msgstr ""
+
+#: ../templates/template-password.php:90
+msgid "To continue please enter your password below"
+msgstr ""
+
+#: ../templates/template-password.php:102
+msgid "Authenticate"
+msgstr ""
+
+#: ../templates/template-post-share.php:16 ../templates/template-share.php:10
+msgid "Share On Facebook"
+msgstr ""
+
+#: ../templates/template-post-share.php:17 ../templates/template-share.php:11
+msgid "Share On Twitter"
+msgstr ""
+
+#: ../templates/template-post-share.php:17
+msgid "Tweet It"
+msgstr ""
+
+#: ../templates/template-post-share.php:18 ../templates/template-share.php:12
+msgid "Share On Pinterest"
+msgstr ""
+
+#: ../templates/template-post-share.php:19 ../templates/template-share.php:13
+msgid "Share by Email"
+msgstr ""
+
+#: ../templates/template-topmenu-center-menus.php:368
+#: ../templates/template-topmenu-left.php:388
+msgid "View Fullscreen"
+msgstr ""
+
+#: ../templates/template-topmenu-center-menus.php:369
+#: ../templates/template-topmenu-left.php:389
+msgid "Exit Fullscreen"
+msgstr ""
+
+#: ../templates/template-topmenu-center-menus.php:385
+#: ../templates/template-topmenu-left.php:405
+msgid "View Cart"
+msgstr ""
+
+#: ../templates/template-topmenu-left.php:326
+#: ../templates/template-topmenu.php:406
+msgid "Setup Menu via Wordpress Dashboard > Appearance > Menus"
+msgstr ""
+
+#: ../templates/template-topmenu-left.php:358
+msgid "Share"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"
